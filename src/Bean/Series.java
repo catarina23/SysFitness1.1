@@ -10,7 +10,7 @@ package Bean;
  *
  * @author Alberto
  */
-public class CadSeries extends Alunos{
+public class Series extends Alunos{
     
         private String idSerie;
 	private String tipo;

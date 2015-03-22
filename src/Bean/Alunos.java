@@ -4,7 +4,7 @@ package Bean;
  *
  * @author Alberto
  */
-public class Alunos extends CadUsuario{
+public class Alunos extends Usuario{
         private float altura;
         private float peso;
         private float panturrilha;

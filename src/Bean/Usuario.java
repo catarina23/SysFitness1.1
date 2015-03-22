@@ -1,6 +1,6 @@
 package Bean;
 
-abstract class CadUsuario  {
+abstract class Usuario  {
 
 	private String nome;
 	private String CPF;

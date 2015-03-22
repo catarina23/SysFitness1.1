@@ -10,6 +10,6 @@ package Bean;
  *
  * @author Alberto
  */
-public class CadMensalidade {
+public class Mensalidade {
     
 }

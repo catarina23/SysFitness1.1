@@ -8,7 +8,7 @@ package Bean;
  *
  * @author Alberto
  */
-public class CadEquipamento {
+public class Equipamento {
      private String Id_Equipamento;
      private String Nome;
      private String Quantidade;
